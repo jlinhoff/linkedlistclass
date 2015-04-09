@@ -1,0 +1,4 @@
+map 10,10
+xyc 0,0,a
+xyc 2,4,P
+xyc 9,9,z
