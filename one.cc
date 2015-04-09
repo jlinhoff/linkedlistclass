@@ -1,4 +1,4 @@
-#if 1 // one.cc
+#if 0 // one.cc
 // one.cc -- Joe Linhoff for CS393, linked lists
 #include <stdio.h>
 #include <string.h>
